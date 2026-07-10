@@ -16,7 +16,8 @@
 
 ## 🌐 লাইভ ডেমো:
 [Netlify-তে হোস্ট করার পর লিংক:## 🌐 লাইভ ডেমো:
-[https://venerable-naiad-71f80b.netlify.app](https://venerable-naiad-71f80b.netlify.app)
+## 🌐 লাইভ ডেমো:
+[https://venerable-naiad-71f80b.netlify.app/](https://venerable-naiad-71f80b.netlify.app/)
 
 ## 📂 GitHub রিপোজিটরি:
 [https://github.com/wahid-milon/my-first-portfolio.git](https://github.com/wahid-milon/my-first-portfolio.git)
